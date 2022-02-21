@@ -1,3 +1,3 @@
 # grafika
 
-Varga-Molnár Bertalan | PY7QFH - Számítógép grafika előrehaladás
+Varga-Molnár Bertalan | PY7QFH - Számítógépi grafika előrehaladás
