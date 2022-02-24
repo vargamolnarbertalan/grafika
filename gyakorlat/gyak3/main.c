@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("3. gyak\n");
+    printf("3. gyak temaja: Descartes-szorzat, transzformaciok, matrixok\n");
     return 0;
 }
