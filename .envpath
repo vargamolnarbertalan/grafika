@@ -1,1 +1,1 @@
-$env:Path += ";C:\Users\nyaks\Documents\grafika\c_sdk_220203\c_sdk_220203\MinGW\bin\"
+$env:Path += ";D:\MinGW\bin"
