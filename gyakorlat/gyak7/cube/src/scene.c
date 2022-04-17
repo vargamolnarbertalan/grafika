@@ -27,7 +27,7 @@ void init_scene(Scene* scene)
 
 void set_lighting()
 {
-    float ambient_light[] = { 1.0f, 1.0f, 0.0f, 1.0f }; //sarga megvilagitas
+    float ambient_light[] = { 1.0f, 1.0f, 0.0f, 1.0f }; //sarga  megvilagitas
     float diffuse_light[] = { 1.0f, 1.0f, 1.0, 1.0f };
     float specular_light[] = { 0.0f, 0.0f, 0.0f, 1.0f };
     float position[] = { 0.0f, 10.0f, 10.0f, 1.0f }; //megvilagitas y10 z10
