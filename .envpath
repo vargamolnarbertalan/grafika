@@ -1,1 +1,4 @@
 $env:Path += ";D:\MinGW\bin"
+git config --global user.email "vargamolnarb@gmail.com"
+git config --global user.name "vargamolnarbertalan"
+git remote set-url origin https://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@github.com/vargamolnarbertalan/grafika.git
