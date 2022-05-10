@@ -1,0 +1,2 @@
+cd C:\Users\nyaks\Documents\grafika\feladat\cube
+make && cube
